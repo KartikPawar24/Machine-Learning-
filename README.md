@@ -1,3 +1,3 @@
 # Machine-Learning-
-It contains the Machine Learning Projects
-You can download the files from here
+It contains the Machine Learning Projects.
+You can download the files from here.
